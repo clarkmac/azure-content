@@ -56,7 +56,7 @@ In addition to the initial ingestion of data, many  intelligent applications are
 
 ## 2. Explore and pre-process data 
 
-The next step is to obtain a deeper understanding of the data by investigating its **summary statistics** , relationships, and by using techniques such **visualization**. This is also where issues of **data quality** and integrity, such as missing values, data type mismatches, and inconsistent data relationships, are handled. Pre-processing transforms are used to clean up the raw data before further analytics and modeling can take place. For a description, see [Tasks to prepare data for enhanced machine learning](machine-learning-data-science-prepare-data.md).
+The next step is to obtain a deeper understanding of the data by investigating its **summary statistics** , relationships, and by using techniques such as **visualization**. This is also where issues of **data quality** and integrity, such as missing values, data type mismatches, and inconsistent data relationships, are handled. Pre-processing transforms are used to clean up the raw data before further analytics and modeling can take place. For a description, see [Tasks to prepare data for enhanced machine learning](machine-learning-data-science-prepare-data.md).
 
 
 ## 3. Develop Features 
